@@ -17,3 +17,16 @@ public class MathOperation{
         System.out.println("Remainder of two numbers: "+rem);
     }
 }
+
+OUTPUT:
+
+C:\Users\Dell\.jdks\openjdk-19.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\lib\idea_rt.jar=7777:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\Dell\IdeaProjects\Java 1\out\production\Java 1" MathOperations
+Enter the numbers:
+10 15
+Sum of two numbers: 25
+Subtraction of two numbers: -5
+Product of two numbers: 150
+Division of two numbers: 0.0
+Remainder of two numbers: 10
+
+Process finished with exit code 0
